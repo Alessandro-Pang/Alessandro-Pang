@@ -6,7 +6,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);你好，我是子洋!&center=true&size=27" />
     </a>
   </div>
-
 <br/>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -21,6 +20,9 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" /></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--  skill badge 技能徽章 -->
 
