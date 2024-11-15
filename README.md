@@ -19,7 +19,7 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=&theme=onedark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang">
   <img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" />:
 </picture>
