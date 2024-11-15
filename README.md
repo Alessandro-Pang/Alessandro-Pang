@@ -14,12 +14,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
+<br/>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" /></a>
+</picture>
+
+</div>
 
 
 
