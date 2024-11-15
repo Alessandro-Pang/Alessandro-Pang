@@ -150,8 +150,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&theme=">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&theme=" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&theme=onedark&margin-w=15&no-frame=true&title=-Followers,-Reviews,-PullRequest">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&margin-w=15&title=-Followers,-Reviews,-PullRequest">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&margin-w=15" alt="GitHub Streak&title=-Followers,-Reviews,-PullRequest" />
 </picture>
 
