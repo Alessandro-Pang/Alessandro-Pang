@@ -21,6 +21,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" /></a>
 
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2029%20mins-blue)
 
@@ -141,5 +143,8 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 <!-- profile-3d-contrib 3D贡献图-->
 
-![](https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/master/profile-3d-contrib/profile-green-animate.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/master/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/master/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/master/profile-3d-contrib/profile-green-animate.svg">
+</picture>
