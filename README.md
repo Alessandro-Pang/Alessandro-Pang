@@ -21,7 +21,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" />:
 </picture>
 
 </div>
