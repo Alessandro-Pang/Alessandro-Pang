@@ -6,7 +6,29 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);你好，我是子洋!&center=true&size=27" />
     </a>
   </div>
-<br/>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://blog.pangcy.cn/" target="_blank"><img src="https://img.shields.io/badge/Website-个人博客-blue" title='个人博客' alt='个人博客'/></a>&emsp;
+    <a href="https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/master/img/wechat-code.jpg" target="_blank"><img src="https://img.shields.io/badge/WeChat-微信-07c160" title='微信' alt='微信'/></a>&emsp;
+    <a href="https://juejin.cn/user/1099167359835015/posts" target="_blank"><img src="https://img.shields.io/badge/Juejin-掘金-blue" title='掘金' alt='掘金'/></a>&emsp;
+    <a href="https://space.bilibili.com/295617310" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" title='B站' alt='B站'/></a>&emsp;
+    <a href="https://www.zhihu.com/people/xiao-xiao-long-50-93" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" title='知乎' alt='知乎'/></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_42693699" target="_blank"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" title='CSDN' alt='CSDN'/></a>&emsp;
+  </div>
+
+
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+<div align="center">  
+      <p> GitHub 👇 Views 访问量</p>
+      <img src="https://komarev.com/ghpvc/?username=Alessandro-Pang&label=Views&color=0e75b6&style=flat" alt="访问量统计" title='访问量统计'/>
+</div>
+
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -16,17 +38,9 @@
 </picture>
 <br/>
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang">
-  <img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" />:
-</picture>
-
-
 </div>
 
+## 📊 WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2029%20mins-blue)
@@ -99,6 +113,14 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang">
+  <img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" />
+</picture>
 
 <!-- profile-3d-contrib 3D贡献图-->
 
