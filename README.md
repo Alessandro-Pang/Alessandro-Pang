@@ -23,9 +23,10 @@
 
 
   <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+<div>&nbsp;</div>
 <div align="center">  
       <p> GitHub 👇 Views 访问量</p>
+			<!-- https://github.com/antonkomarev/github-profile-views-counter -->
       <img src="https://komarev.com/ghpvc/?username=Alessandro-Pang&label=Views&color=0e75b6&style=flat" alt="访问量统计" title='访问量统计'/>
 </div>
 
@@ -111,16 +112,29 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
-
 <!--END_SECTION:waka-->
+
+
+
+## 📝 连续提交天数记录
+
+
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
+<div align="center"	>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Alessandro-Pang">
   <img src="https://streak-stats.demolab.com?user=Alessandro-Pang" alt="GitHub Streak" />
 </picture>
+</div>
+
+
+
+## 🎉 代码统计
+
+
 
 <!-- profile-3d-contrib 3D贡献图-->
 
@@ -129,3 +143,15 @@ Kotlin                   1 repo              █░░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/master/profile-3d-contrib/profile-green-animate.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alessandro-Pang/Alessandro-Pang/master/profile-3d-contrib/profile-green-animate.svg">
 </picture>
+
+
+## 🏆 成就
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&theme=">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alessandro-pang&theme=" alt="GitHub Streak" />
+</picture>
+
