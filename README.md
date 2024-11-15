@@ -25,9 +25,7 @@
 </picture>
 
 
-
 </div>
-
 
 
 <!--START_SECTION:waka-->
