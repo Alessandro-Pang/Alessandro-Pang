@@ -44,8 +44,6 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C658%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -87,17 +85,13 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 57 mins       ██████████████████░░░░░░░   72.68 % 
-JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-TSConfig                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Trae                     4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
