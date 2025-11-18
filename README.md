@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.pangcy.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);你好，我是子洋!&center=true&size=27" />
+	  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&vCenter=true&lines=console.log(%22Hello%2C%20World%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%AD%90%E6%B4%8B!" alt="Typing SVG" />
     </a>
   </div>
 
