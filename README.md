@@ -60,6 +60,42 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                469 commits         ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+🌆 Daytime                532 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌃 Evening                574 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
+🌙 Night                  76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Tuesday                  249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Wednesday                243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Thursday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Friday                   267 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Saturday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Sunday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
