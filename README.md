@@ -50,7 +50,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 226.8 kB Used in GitHub's Storage 
+> 📦 226.9 kB Used in GitHub's Storage 
  > 
 > 🏆 137 Contributions in the Year 2026
  > 
@@ -87,17 +87,17 @@ Sunday                   197 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 32 mins       █████████████████░░░░░░░░   69.71 % 
-Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+TypeScript               2 hrs 46 mins       █████████████████░░░░░░░░   69.63 % 
+Text                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 4 mins        █████████████████████████   100.00 % 
+Cursor                   3 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
