@@ -87,17 +87,14 @@ Sunday                   197 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               32 mins             ████████████░░░░░░░░░░░░░   46.39 % 
-Other                    23 mins             ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Text                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other                    23 mins             ████████████████░░░░░░░░░   64.40 % 
+TypeScript               12 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
 
 🔥 Editors: 
-Cursor                   1 hr 10 mins        █████████████████████████   100.00 % 
+Cursor                   36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
