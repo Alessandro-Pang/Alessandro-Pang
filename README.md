@@ -87,14 +87,13 @@ Sunday                   197 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 mins             ████████████████░░░░░░░░░   64.40 % 
-TypeScript               12 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
