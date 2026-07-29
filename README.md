@@ -44,10 +44,6 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2057%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2056%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -89,22 +85,22 @@ Sunday                   197 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 mins             █████████████░░░░░░░░░░░░   53.92 % 
-TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               22 mins             ███████████░░░░░░░░░░░░░░   45.39 % 
+Other                    16 mins             ████████░░░░░░░░░░░░░░░░░   33.06 % 
+Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-Cursor                   30 mins             █████████████████████████   100.00 % 
+Cursor                   49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (100.0%)
+⏱ AI Coding Time: 49 mins (100.0%)
 
 ✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
 
@@ -112,13 +108,13 @@ Mac                      30 mins             ███████████�
 
 💵 $0.88 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 3 AI Prompts
+🧠 6 AI Sessions, 4 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,879 characters per prompt
+📄 Detailed Prompter — average 1,412 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
