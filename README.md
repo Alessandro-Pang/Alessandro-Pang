@@ -44,6 +44,10 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2017%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2015%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -85,48 +89,50 @@ Sunday                   197 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               22 mins             ███████████░░░░░░░░░░░░░░   45.39 % 
-Other                    16 mins             ████████░░░░░░░░░░░░░░░░░   33.06 % 
-Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Go                       1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   40.85 % 
+Other                    40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 Editors: 
-Cursor                   49 mins             █████████████████████████   100.00 % 
+Cursor                   3 hrs 40 mins       ████████████████████████░   97.23 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 10 mins (84.34%)
 
-✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
+✍️ 2 lines written by AI, 75 lines written by hand (2.6% AI-written)
 
-🔤 165,717 Input Tokens, 1,677 Output Tokens
+🔤 594,167 Input Tokens, 4,670 Output Tokens
 
-💵 $0.88 Estimated AI Cost This Week
+💵 $3.11 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 4 AI Prompts
+🧠 15 AI Sessions, 39 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      7 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,412 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.6% of written lines came from AI
+📄 Detailed Prompter — average 553 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 94.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   38.24 % 
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
+TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Vue                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
