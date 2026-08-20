@@ -44,17 +44,17 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C859%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C863%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-177%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 227.3 kB Used in GitHub's Storage 
+> 📦 227.5 kB Used in GitHub's Storage 
  > 
-> 🏆 141 Contributions in the Year 2026
+> 🏆 142 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,21 +65,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                496 commits         ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-🌆 Daytime                571 commits         ████████░░░░░░░░░░░░░░░░░   32.13 % 
-🌃 Evening                626 commits         █████████░░░░░░░░░░░░░░░░   35.23 % 
-🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+🌞 Morning                496 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌆 Daytime                571 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
+🌃 Evening                627 commits         █████████░░░░░░░░░░░░░░░░   35.26 % 
+🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Wednesday                264 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Thursday                 285 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Friday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Saturday                 162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Sunday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Monday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Wednesday                265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Thursday                 285 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Friday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Saturday                 162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Sunday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 ```
 
 
@@ -89,51 +89,51 @@ Sunday                   208 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.02 % 
-JSON                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Markdown                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Go                       1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+TypeScript               7 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
+Go                       2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Markdown                 2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+JavaScript               1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 18 mins       █████████████████░░░░░░░░   69.82 % 
-Zed                      4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.18 % 
+Codex Vscode             12 hrs 22 mins      █████████████████░░░░░░░░   66.98 % 
+Zed                      6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.02 % 
 
 💻 Operating System: 
-Mac                      13 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 34 mins (94.34%)
+⏱ AI Coding Time: 17 hrs 27 mins (94.4%)
 
-✍️ 6,472 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13,572 lines written by AI, 8 lines written by hand (99.94% AI-written)
 
-🔤 12,797,063 Input Tokens, 752,865 Output Tokens
+🔤 16,664,971 Input Tokens, 1,384,035 Output Tokens
 
-💵 $201.53 Estimated AI Cost This Week
+💵 $268.15 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 238 AI Prompts
+🧠 90 AI Sessions, 317 AI Prompts
 
-GPT                      6,928 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      15,415 lines        █████████████████████████   99.86 % 
+Codex-Vscode             22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 13,589 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 12,363 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Vue                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   38.24 % 
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
