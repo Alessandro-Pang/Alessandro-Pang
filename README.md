@@ -44,9 +44,9 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C020%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C023%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -89,47 +89,47 @@ Sunday                   263 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 37 mins      ████████████░░░░░░░░░░░░░   46.24 % 
-Markdown                 5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Go                       1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Bash                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+TypeScript               12 hrs 58 mins      ███████████░░░░░░░░░░░░░░   43.70 % 
+Markdown                 6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Go                       1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+JSON                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other                    1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 49 mins      ███████████████░░░░░░░░░░   60.49 % 
-Zed                      5 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Codex Vscode             3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Agent                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Cursor                   17 hrs 42 mins      ███████████████░░░░░░░░░░   59.65 % 
+Zed                      6 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+Codex Vscode             2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Agent                    2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      29 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 40 mins (90.51%)
+⏱ AI Coding Time: 25 hrs 49 mins (86.99%)
 
-✍️ 9,030 lines written by AI, 126 lines written by hand (98.62% AI-written)
+✍️ 10,016 lines written by AI, 228 lines written by hand (97.77% AI-written)
 
-🔤 58,482,356 Input Tokens, 1,224,279 Output Tokens
+🔤 58,024,110 Input Tokens, 1,185,983 Output Tokens
 
-💵 $542.55 Estimated AI Cost This Week
+💵 $536.70 Estimated AI Cost This Week
 
-🧠 135 AI Sessions, 872 AI Prompts
+🧠 134 AI Sessions, 830 AI Prompts
 
-Grok                     5,521 lines         ██████████████░░░░░░░░░░░   56.24 % 
-Fable                    2,082 lines         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Cursor                   912 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Opus                     651 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-GPT                      343 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Grok                     6,482 lines         ███████████████░░░░░░░░░░   60.15 % 
+Fable                    2,082 lines         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Cursor                   912 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Opus                     651 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+GPT                      343 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.62% of written lines came from AI
-📚 Verbose Prompter — average 12,241 characters per prompt
+🤖 AI-Driven — 97.77% of written lines came from AI
+📚 Verbose Prompter — average 12,591 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.84% of changed lines were hand-edited
+🚀 High AI Trust — 3.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
