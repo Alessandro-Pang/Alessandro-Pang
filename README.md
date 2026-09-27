@@ -44,9 +44,9 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C053%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C062%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-362%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-369%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -89,45 +89,46 @@ Sunday                   300 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-JSON                     3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Python                   3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Cuda                     3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Bash                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Markdown                 13 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Python                   10 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Bash                     7 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+JSON                     6 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Cuda                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 Editors: 
-Zed                      13 hrs 43 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
-Agent                    10 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Cursor                   7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Zed                      22 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   41.27 % 
+Opencode Cli             14 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+Agent                    10 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Cursor                   7 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 
 💻 Operating System: 
-Mac                      30 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      53 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 30 mins (85.81%)
+⏱ AI Coding Time: 49 hrs 18 mins (92.0%)
 
-✍️ 5,029 lines written by AI, 70 lines written by hand (98.63% AI-written)
+✍️ 10,876 lines written by AI, 89 lines written by hand (99.19% AI-written)
 
-🔤 103,383,537 Input Tokens, 20,499,009 Output Tokens
+🔤 401,925,162 Input Tokens, 22,272,528 Output Tokens
 
-💵 $650.32 Estimated AI Cost This Week
+💵 $1187.99 Estimated AI Cost This Week
 
-🧠 206 AI Sessions, 511 AI Prompts
+🧠 223 AI Sessions, 569 AI Prompts
 
-Grok                     3,919 lines         ███████████████████░░░░░░   75.53 % 
-K                        668 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Cursor                   602 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Qwen                     5,377 lines         ████████████░░░░░░░░░░░░░   48.67 % 
+Grok                     3,919 lines         █████████░░░░░░░░░░░░░░░░   35.47 % 
+K                        1,150 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Cursor                   602 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.63% of written lines came from AI
-📚 Verbose Prompter — average 158,792 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.91% of changed lines were hand-edited
+🤖 AI-Driven — 99.19% of written lines came from AI
+📚 Verbose Prompter — average 142,696 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 2.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
