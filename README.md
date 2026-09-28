@@ -44,15 +44,15 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C062%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C085%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-369%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-392%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 231.7 kB Used in GitHub's Storage 
+> 📦 231.8 kB Used in GitHub's Storage 
  > 
 > 🏆 418 Contributions in the Year 2026
  > 
@@ -89,46 +89,46 @@ Sunday                   300 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Python                   10 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Bash                     7 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-JSON                     6 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Cuda                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Markdown                 16 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Python                   15 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+JSON                     7 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Bash                     7 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Cuda                     3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-Zed                      22 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   41.27 % 
-Opencode Cli             14 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-Agent                    10 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Cursor                   7 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Zed                      26 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.50 % 
+Opencode Cli             20 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   32.32 % 
+Agent                    10 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Cursor                   6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 
 💻 Operating System: 
-Mac                      53 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      63 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 18 mins (92.0%)
+⏱ AI Coding Time: 59 hrs 48 mins (94.29%)
 
-✍️ 10,876 lines written by AI, 89 lines written by hand (99.19% AI-written)
+✍️ 13,459 lines written by AI, 89 lines written by hand (99.34% AI-written)
 
-🔤 401,925,162 Input Tokens, 22,272,528 Output Tokens
+🔤 543,666,610 Input Tokens, 23,043,460 Output Tokens
 
-💵 $1187.99 Estimated AI Cost This Week
+💵 $1493.90 Estimated AI Cost This Week
 
-🧠 223 AI Sessions, 569 AI Prompts
+🧠 229 AI Sessions, 586 AI Prompts
 
-Qwen                     5,377 lines         ████████████░░░░░░░░░░░░░   48.67 % 
-Grok                     3,919 lines         █████████░░░░░░░░░░░░░░░░   35.47 % 
-K                        1,150 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Cursor                   602 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Qwen                     9,314 lines         █████████████████░░░░░░░░   68.34 % 
+Grok                     2,356 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+K                        1,356 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Cursor                   602 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📚 Verbose Prompter — average 142,696 characters per prompt
+🤖 AI-Driven — 99.34% of written lines came from AI
+📚 Verbose Prompter — average 138,255 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.54% of changed lines were hand-edited
+🚀 High AI Trust — 2.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
