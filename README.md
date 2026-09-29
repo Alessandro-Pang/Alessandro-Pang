@@ -44,9 +44,9 @@
 ## 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C085%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C097%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-392%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -89,46 +89,46 @@ Sunday                   300 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Python                   15 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-JSON                     7 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Bash                     7 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Cuda                     3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Markdown                 25 hrs              ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Python                   22 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Bash                     15 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+JSON                     7 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Cuda                     4 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-Zed                      26 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.50 % 
-Opencode Cli             20 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Agent                    10 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Cursor                   6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Opencode Cli             41 hrs 41 mins      ████████████░░░░░░░░░░░░░   47.16 % 
+Zed                      35 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   40.63 % 
+Agent                    6 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Cursor                   4 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 💻 Operating System: 
-Mac                      63 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      88 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 48 mins (94.29%)
+⏱ AI Coding Time: 87 hrs 14 mins (98.67%)
 
-✍️ 13,459 lines written by AI, 89 lines written by hand (99.34% AI-written)
+✍️ 29,840 lines written by AI, 204 lines written by hand (99.32% AI-written)
 
-🔤 543,666,610 Input Tokens, 23,043,460 Output Tokens
+🔤 1,077,422,825 Input Tokens, 9,586,595 Output Tokens
 
-💵 $1493.90 Estimated AI Cost This Week
+💵 $2268.79 Estimated AI Cost This Week
 
-🧠 229 AI Sessions, 586 AI Prompts
+🧠 174 AI Sessions, 487 AI Prompts
 
-Qwen                     9,314 lines         █████████████████░░░░░░░░   68.34 % 
-Grok                     2,356 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-K                        1,356 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Cursor                   602 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Qwen                     26,168 lines        ██████████████████████░░░   87.01 % 
+Grok                     1,683 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+K                        1,621 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Cursor                   602 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📚 Verbose Prompter — average 138,255 characters per prompt
+🤖 AI-Driven — 99.32% of written lines came from AI
+📚 Verbose Prompter — average 29,747 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.14% of changed lines were hand-edited
+🚀 High AI Trust — 1.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
