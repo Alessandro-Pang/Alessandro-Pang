@@ -89,45 +89,45 @@ Sunday                   300 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 29 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Python                   25 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Bash                     19 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-JSON                     9 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-shell script             2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Markdown                 21 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Python                   18 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Bash                     15 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+JSON                     6 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+shell script             2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-Opencode Cli             67 hrs 7 mins       ██████████████████░░░░░░░   71.78 % 
-Zed                      26 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Opencode Cli             52 hrs 49 mins      ███████████████████░░░░░░   75.23 % 
+Zed                      17 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      93 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      70 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 92 hrs 51 mins (99.29%)
+⏱ AI Coding Time: 70 hrs 3 mins (99.77%)
 
-✍️ 56,877 lines written by AI, 143 lines written by hand (99.75% AI-written)
+✍️ 51,030 lines written by AI, 124 lines written by hand (99.76% AI-written)
 
-🔤 1,368,140,998 Input Tokens, 6,970,013 Output Tokens
+🔤 1,069,599,373 Input Tokens, 5,196,494 Output Tokens
 
-💵 $2069.90 Estimated AI Cost This Week
+💵 $1547.34 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 184 AI Prompts
+🧠 49 AI Sessions, 126 AI Prompts
 
-Qwen                     55,437 lines        ████████████████████████░   97.20 % 
-K                        1,423 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-GLM                      173 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Qwen                     50,060 lines        ████████████████████████░   97.82 % 
+K                        941 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+GLM                      173 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.75% of written lines came from AI
-📄 Detailed Prompter — average 1,225 characters per prompt
+🤖 AI-Driven — 99.76% of written lines came from AI
+📄 Detailed Prompter — average 1,382 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
