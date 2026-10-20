@@ -89,44 +89,45 @@ Sunday                   300 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.53 % 
-JSON                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-HTML                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Go                       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+TypeScript               5 hrs 51 mins       ███████████████░░░░░░░░░░   61.32 % 
+Go                       1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.66 % 
-Zed                      2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-Opencode Cli             2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-VS Code                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Cursor                   7 hrs 7 mins        ███████████████████░░░░░░   74.68 % 
+Zed                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Opencode Cli             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+OpenCode                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 31 mins (81.4%)
+⏱ AI Coding Time: 8 hrs 35 mins (90.02%)
 
-✍️ 2,999 lines written by AI, 41 lines written by hand (98.65% AI-written)
+✍️ 1,180 lines written by AI, 7 lines written by hand (99.41% AI-written)
 
-🔤 159,176,368 Input Tokens, 1,078,348 Output Tokens
+🔤 86,868,609 Input Tokens, 673,187 Output Tokens
 
-💵 $805.89 Estimated AI Cost This Week
+💵 $467.13 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 76 AI Prompts
+🧠 20 AI Sessions, 75 AI Prompts
 
-GLM                      2,560 lines         ████████████████████░░░░░   79.31 % 
-K                        668 lines           █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+GLM                      742 lines           ████████████░░░░░░░░░░░░░   47.23 % 
+K                        526 lines           ████████░░░░░░░░░░░░░░░░░   33.48 % 
+Claude-Opus              303 lines           █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📄 Detailed Prompter — average 1,174 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.35% of changed lines were hand-edited
+🤖 AI-Driven — 99.41% of written lines came from AI
+📄 Detailed Prompter — average 888 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
